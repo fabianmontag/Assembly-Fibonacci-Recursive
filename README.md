@@ -1,2 +1,2 @@
 # Assembly-Fibonacci-Recursive
-Recursive Fibonacci Algorithm in RISC V Assembly
+Recursive Fibonacci Algorithm in RISC-V Assembly
